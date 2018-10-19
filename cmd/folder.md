@@ -1,0 +1,1 @@
+the folder should contain subfolders: one for each binary artefact we need to get
